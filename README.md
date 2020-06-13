@@ -1,1 +1,3 @@
-# Cookie Bar
+# Demo
+
+Template repository for demos
