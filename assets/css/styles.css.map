@@ -1,1 +1,1 @@
-{"version":3,"sources":["components/_common.scss","config/_variables.scss"],"names":[],"mappings":"AAAA,KACE,UCDQ","file":"styles.css","sourcesContent":["body {\n  color: $red;\n}\n","$red: #f00;\n"]}
+{"version":3,"sources":["components/_common.scss"],"names":[],"mappings":"AAAA,KACE,MAAA","file":"styles.css","sourcesContent":["body {\n  color: $red;\n}\n"]}
